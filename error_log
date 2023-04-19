@@ -1,0 +1,28 @@
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/earndigit/public_html/get.php on line 3
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/earndigit/public_html/get.php on line 3
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/earndigit/public_html/get.php on line 3
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Notice:  Undefined index: id in /home/earndigit/public_html/get.php on line 5
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/earndigit/public_html/get.php on line 6
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/earndigit/public_html/get.php on line 6
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/earndigit/public_html/get.php on line 6
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/earndigit/public_html/get.php on line 8
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/earndigit/public_html/get.php on line 8
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/earndigit/public_html/get.php on line 8
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Notice:  Undefined variable: settings in /home/earndigit/public_html/get.php on line 22
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/earndigit/public_html/get.php on line 27
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/earndigit/public_html/get.php on line 27
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/earndigit/public_html/get.php on line 27
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/earndigit/public_html/get.php on line 28
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/earndigit/public_html/get.php on line 28
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/earndigit/public_html/get.php on line 28
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/earndigit/public_html/homeg_header.php on line 2
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/earndigit/public_html/homeg_header.php on line 3
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Notice:  Undefined index: user_id in /home/earndigit/public_html/homeg_header.php on line 3
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/earndigit/public_html/homeg_header.php on line 3
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/earndigit/public_html/homeg_header.php on line 3
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Notice:  Undefined index: user_id in /home/earndigit/public_html/homeg_header.php on line 11
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Notice:  Undefined variable: ads_click in /home/earndigit/public_html/get.php on line 74
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Notice:  Undefined variable: check_ip in /home/earndigit/public_html/get.php on line 74
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Notice:  Undefined variable: ads_click in /home/earndigit/public_html/get.php on line 109
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Notice:  Undefined variable: check_ip in /home/earndigit/public_html/get.php on line 109
+[23-Apr-2019 08:16:03 Etc/GMT] PHP Notice:  Undefined variable: c_c in /home/earndigit/public_html/get.php on line 143
